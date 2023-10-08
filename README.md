@@ -37,7 +37,7 @@ Este projeto é de código aberto, e contribuições são bem-vindas! Se você d
 
 # Linguagens e Nuvens Utlilizadas
 <div>
-<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="Logo AWS" width="200" height="200">
+<img src="https://newly.com.br/wp-content/uploads/2020/07/prod-art-aws-600-width-1200.png" alt="Logo AWS" width="200" height="200">
 
 <img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" alt="Logo Java" width="200" height="200">
 </div>
