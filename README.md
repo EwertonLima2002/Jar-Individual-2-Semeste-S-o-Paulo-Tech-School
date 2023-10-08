@@ -37,7 +37,7 @@ Este projeto é de código aberto, e contribuições são bem-vindas! Se você d
 
 # Linguagens e Nuvens Utlilizadas
 <div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="Logo Java" width="150" height="150">
+<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="Logo AWS" width="150" height="150">
 
 <img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" alt="Logo Java" width="200" height="200">
 </div>
