@@ -37,8 +37,8 @@ Este projeto é de código aberto, e contribuições são bem-vindas! Se você d
 
 # Linguagens e Nuvens Utlilizadas
 
-<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png)https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Logo Java" width="300" height="200">
+<img src="[https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png)https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png)" alt="Logo Java" width="200" height="200">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="Logo Java" width="300" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="Logo Java" width="200" height="200">
 
 
